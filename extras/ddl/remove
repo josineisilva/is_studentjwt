@@ -1,0 +1,4 @@
+DROP TABLE student;
+DROP TABLE usuarioperfil;
+DROP TABLE usuario;
+DROP TABLE perfil;
